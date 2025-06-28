@@ -10,8 +10,8 @@ A Python application for adding text watermarks to images with a simple GUI inte
 
 ## How to Run  
 1. Install dependencies:  
-   ```bash  
    pip install pillow  
+
 Run the Jupyter notebook or copy the code to a Python file
 
 Use the GUI to:
@@ -24,7 +24,7 @@ Add watermark
 
 Save the result
 
-Controls
+## Controls
 
 
 "Open Image" - Browse and select an image file
@@ -35,7 +35,7 @@ Text field - Enter your watermark text
 
 "Save Image" - Save the watermarked version
 
-Dependencies
+## Dependencies
 
 Python 3.x
 
