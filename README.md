@@ -25,6 +25,8 @@ Add watermark
 Save the result
 
 Controls
+
+
 "Open Image" - Browse and select an image file
 
 Text field - Enter your watermark text
@@ -34,13 +36,15 @@ Text field - Enter your watermark text
 "Save Image" - Save the watermarked version
 
 Dependencies
+
 Python 3.x
 
 Tkinter (included in standard library)
 
 Pillow (PIL fork)
 
-Known Issues
+Known Issues 
+
 Watermark position is fixed at bottom-right
 
 Limited font customization options
